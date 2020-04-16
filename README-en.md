@@ -1,4 +1,4 @@
-# Learn AJAX in 1 minute. ([Persian Version!] (./README.md))
+# Learn AJAX in 1 minute. ([Persian Version!] (https://github.com/rezaghajani/Learn-AJAX-In-1-Minute/blob/master/README.md))
 
 ## What's AJAX?
 

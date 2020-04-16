@@ -1,4 +1,4 @@
-# Learn AJAX in 1 minute. ([English Version!] (./README-en.md))
+# Learn AJAX in 1 minute. ([English Version!] (https://github.com/rezaghajani/Learn-AJAX-In-1-Minute/blob/master/README-en.md))
 
 ## AJAX چیست؟
 AJAX (ایجکس) مخفف عبارت Asynchronous JavaScript and XML و به معنای  ترکیب جاوا اسکریپت و xml‌ غیرهمزمان و ناهمگام است. آشنایی با این تکنولوژی پرکاربرد برای توسعه دهندگان و طراحان ضروری است. 
